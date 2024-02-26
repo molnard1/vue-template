@@ -20,7 +20,7 @@
     "concurrently": "^8.2.2",
     "esbuild": "^0.20.1",
     "esbuild-plugin-vue3": "^0.4.2",
-    "nodemon": "^3.0.3",
+    "nodemon": "^3.1.0",
     "opener": "^1.5.2",
     "serve": "^14.2.1"
   }
