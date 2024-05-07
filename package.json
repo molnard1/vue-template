@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.4.22"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
