@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
-    "esbuild": "^0.21.4",
+    "esbuild": "^0.22.0",
     "esbuild-plugin-vue3": "^0.4.2",
     "nodemon": "^3.1.1",
     "opener": "^1.5.2",
